@@ -1,0 +1,242 @@
+body {
+    overflow-x: hidden;
+}
+
+div.allcontent {
+    width: 2011px;
+}
+
+div.header { 
+    position: fixed;
+    width: 2011px;
+    height: 84px;
+    background: #007765; 
+    text-align: center;
+}
+
+div.header img {
+    width: 184px;
+    height: 45px;
+    margin-top: 20px;
+    margin-bottom:-13px;
+    margin-right: 501px;
+}
+
+.textheader {
+    font-size: 24px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    color: #FFFF;
+    text-decoration: none;
+}
+
+.pipernet {
+    background: url('images/image-15.png');
+    height: 403px;
+    color: #FFFF;
+    text-align: center;
+    font-size: 72px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    margin-top: 0px;
+    padding-top: 200px;
+    box-sizing: border-box;
+
+}
+
+.caseproblem {
+    color: #007765;
+    text-align: center;
+    font-size: 64px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    box-sizing: border-box;
+    padding-top: 20px;
+}
+
+.paragraph {
+    color: #000;
+    font-size: 32px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    width: 1110px;
+    flex-direction: column;
+    flex-shrink: 0;
+    margin-left: 450px;
+}
+
+.quote {
+    color: #FFF;
+    text-align: center;
+    font-size: 48px;
+    font-family: Roboto;
+    font-style: italic;
+    font-weight: 500;
+    line-height: normal;
+    width: 2011px;
+    height: 483px;
+    flex-direction: column;
+    background: url('images/image-14.png');
+    padding-top: 128px;
+    box-sizing: border-box;
+}
+
+.introducing {
+    color: #007765;
+    text-align: center;
+    font-size: 64px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+
+.logointroducing {
+    width: 115px;
+    height: 115px;
+    margin-left: 451px;
+    margin-bottom: -5px;
+    margin-top: 16px;
+}
+
+.textintroducing1 {
+    color: #000;
+    font-size: 32px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    width: 930px;
+    height: 110px;
+    margin-left: 48px;
+    margin-bottom: 40px;
+    display: inline-block;
+}
+
+.textintroducing2 {
+    color: #000;
+    font-size: 32px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    width: 1110px;
+    height: 223px;
+    flex-direction: column;
+    flex-shrink: 0;
+    margin-left: 451px;
+}
+
+.teamh1 {
+    color: #007765;
+    text-align: center;
+    font-size: 64px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    width: 1110px;
+    flex-direction: column;
+    flex-shrink: 0;
+    margin-left: 451px;
+}
+
+.team {
+    background: #EEEEEE;
+    width: 2011px;
+    height: 845px;
+    flex-shrink: 0;
+    padding-top: 2px;
+}
+
+.problem {
+    background: #EEEEEE;
+    width: 2011px;
+    height: 719px;
+    margin-bottom: -92px;
+    margin-top: -48px;
+}
+
+.introducingdiv {
+    background: #FFFFFF;
+    width: 2011px;
+    height: 604px;
+}
+
+.teamcontainter1 {
+    display: flex;
+    margin-left: 380px;
+    text-align: center;
+}
+
+.dinesh {
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+.name  {
+    color: #007765;
+    font-size: 24px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    margin-top: 0px;
+}
+
+.spec {
+    display: flex;
+    width: 350px;
+    flex-direction: column;
+    flex-shrink: 0;
+    color: #000;
+    text-align: center;
+    font-size: 18px;
+    font-family: Roboto;
+    font-style: italic;
+    font-weight: 400;
+    line-height: normal;
+    margin-top: -25px;
+}
+
+.teamcontainter2 {
+    display: flex;
+    margin-left: 380px;
+    text-align: center;
+    padding-top: 82px;
+}
+
+.monica {
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+.footer {
+    background: #333;
+    width: 2011px;
+    height: 176px;
+    flex-shrink: 0;
+}
+
+.footer p {
+    color: #FFF;
+    text-align: center;
+    font-size: 18px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    width: 540px;
+    height: 64px;
+    margin-top: 0px;
+    padding-top: 50px;
+    padding-left: 736px;
+}
